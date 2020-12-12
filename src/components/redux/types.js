@@ -1,0 +1,6 @@
+export const SHOW_FORM = 'SHOW_FORM'
+export const HIDE_FORM = 'HIDE_FORM'
+export const ADD_USER = 'ADD_USER'
+export const FILTER_ON = 'FILTER_ON'
+export const FILTER_OFF = 'FILTER_OFF'
+export const CURRENT_PAGE = 'CURRENT_PAGE'
